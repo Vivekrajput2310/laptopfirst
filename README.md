@@ -9,3 +9,6 @@ This update is happend in features branch not in main .
 
 # Push branch 
 This update is happend in features branch not in main or features.
+
+# Merge confilict
+Update in readme file to check the merge conflict after creating pull request .
