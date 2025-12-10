@@ -2,4 +2,8 @@
 This the first project which on which I am working in my laptop .
 
 # Main branch 
-This update is happend in main branch not in features .
+This update is happend in main branch not in features
+
+# features branch 
+This update is happend in features branch not in main .
+
